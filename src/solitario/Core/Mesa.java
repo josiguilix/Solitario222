@@ -23,6 +23,8 @@ clase para representar la mesa de juego, y en particular de los métodos que se 
  */
 package solitario.Core;
 
+//cris es una guapa
+
 import java.util.Stack;
 
 /**
